@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS tech_zen_db;
+
+CREATE DATABASE tech_zen_db;
